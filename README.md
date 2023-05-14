@@ -13,7 +13,7 @@
 ![img.png](readme photos/img.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img.png?raw=true
 
 При клике на название поста-объявления незарегистрированный пользователь может прочитать как само объвление, так и отзывы на него
-![img_2.png](readme photos/img_2.png)
+![img_2.png](readme photos/img_2.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_2.png?raw=true
 
 ![img_3.png](readme photos/img_3.png)
 
