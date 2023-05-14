@@ -15,7 +15,7 @@
 При клике на название поста-объявления незарегистрированный пользователь может прочитать как само объвление, так и отзывы на него
 ![img_2.png](readme photos/img_2.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_2.png?raw=true
 
-![img_3.png](readme photos/img_3.png)
+![img_3.png](readme photos/img_3.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_3.png?raw=true
 
 Пользователь может вернуться назад, либо кликнув на кномку "Back", либо на название сайта или копку "All posts" на панели меню
 Также пользователю предлагается войти в систему, чтобы иметь возможность оставлять комментарии и публиковать свои посты/объявления
