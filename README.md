@@ -10,7 +10,7 @@
 
 На главной странице сайта незарегистрированному пользователю дается возможность просмотреть список постов:
 В меню пользователю доступны кнопки регистрации или вхожа в систему
-![img.png](readme photos/img.png)
+![img.png](readme photos/img.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img.png?raw=true
 
 При клике на название поста-объявления незарегистрированный пользователь может прочитать как само объвление, так и отзывы на него
 ![img_2.png](readme photos/img_2.png)
