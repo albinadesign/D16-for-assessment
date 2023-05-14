@@ -10,73 +10,74 @@
 
 На главной странице сайта незарегистрированному пользователю дается возможность просмотреть список постов:
 В меню пользователю доступны кнопки регистрации или вхожа в систему
-![img.png](readme photos/img.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img.png?raw=true
+![img.png](readme photos/img.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/61f2ce24-a2d9-40b6-b18f-dd26afca8b5a)
 
 При клике на название поста-объявления незарегистрированный пользователь может прочитать как само объвление, так и отзывы на него
-![img_2.png](readme photos/img_2.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_2.png?raw=true
+![img_2.png](readme photos/img_2.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/c6449042-61bb-40ee-a92c-8f59066b42b1)
 
-![img_3.png](readme photos/img_3.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_3.png?raw=true
+![img_3.png](readme photos/img_3.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/14d45d4c-053a-4e08-81a4-87593e639028)
 
 Пользователь может вернуться назад, либо кликнув на кномку "Back", либо на название сайта или копку "All posts" на панели меню
 Также пользователю предлагается войти в систему, чтобы иметь возможность оставлять комментарии и публиковать свои посты/объявления
 
 Чтобы зарегистрироваться, нужно кликнуть на соответствующую кнопку на панели меню
-![img_4.png](readme photos/img_4.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_4.png?raw=true
+![img_4.png](readme photos/img_4.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/78ce8268-04c0-4472-8f8b-fbaa2aa2d92d)
 
 При регистрации пользователю на указанную электронную почту отправляется 4-знаяный код подтверждения, который нужно ввести на следующей странице, открывающейся автоматически
-![img_5.png](readme photos/img_5.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_5.png?raw=true
+![img_5.png](readme photos/img_5.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/ab876476-dfe0-4a8b-8a9c-118f9f8b1de1)
 
 Если введен неверный код, пользователю предлагается либо попробовать еще раз зарегистрироваться, либо отменить регистрацию
-![img_6.png](readme photos/img_6.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_6.png?raw=true
+![img_6.png](readme photos/img_6.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/78b8e8d7-cd2c-45a8-b9a6-ec1b7c136496)
 
 Если пользователь уже пытался зарегистрироваться, но не прошел ее успешно, ему предложат сбросить результаты и снова зарегистрироваться
-![img_7.png](readme photos/img_7.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_7.png?raw=true
+![img_7.png](readme photos/img_7.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/78191bda-420f-49c5-a4d9-ab5193f6d3c5)
 
 После успешной регистрации пользователю предлагается войти в систему. Здесь же добавлена кнопка "зарегистрироваться", на случай, если пользователь ранее не регистрировался
-![img_8.png](readme photos/img_8.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_8.png?raw=true
+![img_8.png](readme photos/img_8.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/369f42ec-f411-45cb-bd05-855c7816105d)
 
 Администатору и менеджерам присылаются письма об успешной регистрации нового пользователя
 
 После успешного входа в систему на панели меню появляются кнопки Создания поста/объявления и кнопка входа на личную страницу пользователя "Me comments", где отображаются отклики к постам/объявлениям пользователя
-![img_9.png](readme photos/img_9.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_9.png?raw=true
+![img_9.png](readme photos/img_9.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/c198a70d-849b-4a3a-b6b8-95d67b0609a7)
 
 Кликнув на название любого поста, пользователь попадает на страницу с полным постом и теперь, после входа в систему, он может писать отклики/ комментарии к постам других пользователей. Но если он зайдет на страницу своего поста, окно с комментарием будет для него недоступно, то есть пользователь может писать комментарии/отклики только к чужим постам
-![img_10.png](readme photos/img_10.png)
+![img_10.png](readme photos/img_10.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/f9990e02-cd5f-4624-894e-f0a67d03c0ef)
 
 После того, как он напишет комментарий/ отклик, он отправляется автору поста на рассмотрения, поэтому сразу не появляется на сайте.
-![img_11.png](readme photos/img_11.png)
+![img_11.png](readme photos/img_11.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/e1417490-4c60-452f-8830-cab914afe46c)
 
 При этом автору поста приходит уведомление на почту о новом отклике
-![img_12.png](readme photos/img_12.png)
+![img_12.png](readme photos/img_12.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/72bee474-19b1-4f2b-b788-bf568136f77a)
 
 И уведомление автору комментария:
-![img_13.png](readme photos/img_13.png)
+![img_13.png](readme photos/img_13.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/3ce519d8-cd5c-4857-b647-33ce8bc766d3)
 
 В личном кабинете My comments  пользователь видит все комментарии к своим постам, если нет комментариев или постов, об этом написано на странице
 Здесь пользователь имеет возможность принять или отклонить комментарий/отклик к своему посту/объявлению, а также отфильтровать их по нескольким параметрам
-![img_14.png](readme photos/img_14.png)
+![img_14.png](readme photos/img_14.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/e7937b46-9dde-4737-a980-526841158df9)
 
-Если юзер принял комментарий, то автору комментария приходит уведомление, что комментарий принят
-![img_21.png](readme photos/img_21.png)
+Если автор поста принял комментарий, то автору комментария приходит уведомление, что комментарий принят
+![img_21.png](readme photos/img_21.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/eda7a615-2bc9-44e1-9caa-f9a6241591d1)
 
 На всех страницах сайта добавлена удобная навигация, чтобы вернуться на любую страницу сайта. Если пользователь зарегистрирован, на панели меню становится доступной кнопка создания нового поста/лбъявления
 При клике на кнопку он переходит на страницу создания поста
 Пользователю предлагается выбрать одну из категорий для поста/объявления, вписать название и текст
-![img_15.png](readme photos/img_15.png)
+![img_15.png](readme photos/img_15.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/11d784ad-28dd-4708-b492-72f78b615eef)
 
 При клике на значок с картинкой можно вставить картирку в текст
 Картинка вставляется как ссылка на нее 
-![img_16.png](readme photos/img_16.png)
+![img_16.png](readme photos/img_16.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/76ad806b-88d0-40f1-9c87-e263b3da31a0)
 
 После публикации автору поста приходит уведомление на почту:
-![img_22.png](readme photos/img_22.png)
+![img_22.png](readme photos/img_22.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/4724ecf1-e160-4fd4-8aed-d860925720e1)
 
 После публикации поста, если юзер является автором поста, он может его отредактировать или удалить. Сообвествующие кнопки становятся доступны для него на странице поста
-![img_18.png](readme photos/img_18.png)
+![img_18.png](readme photos/img_18.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/f4d19095-6b5c-47b3-afea-116e5da91fcf)
 
-![img_19.png](readme photos/img_19.png)
+![img_19.png](readme photos/img_19.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/3d411cef-abc7-4d63-8bd4-963fa25fe2c9)
 
-![img_20.png](readme photos/img_20.png)
+![img_20.png](readme photos/img_20.png) ![image](https://github.com/albinadesign/D16-for-assessment/assets/117900508/e92ace72-488c-4e46-9a00-d482db7709a8)
+
 
 
 
