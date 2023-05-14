@@ -30,7 +30,7 @@
 ![img_6.png](readme photos/img_6.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_6.png?raw=true
 
 Если пользователь уже пытался зарегистрироваться, но не прошел ее успешно, ему предложат сбросить результаты и снова зарегистрироваться
-![img_7.png](readme photos/img_7.png)
+![img_7.png](readme photos/img_7.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_7.png?raw=true
 
 После успешной регистрации пользователю предлагается войти в систему. Здесь же добавлена кнопка "зарегистрироваться", на случай, если пользователь ранее не регистрировался
 ![img_8.png](readme photos/img_8.png)
