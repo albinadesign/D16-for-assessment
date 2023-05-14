@@ -33,7 +33,7 @@
 ![img_7.png](readme photos/img_7.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_7.png?raw=true
 
 После успешной регистрации пользователю предлагается войти в систему. Здесь же добавлена кнопка "зарегистрироваться", на случай, если пользователь ранее не регистрировался
-![img_8.png](readme photos/img_8.png)
+![img_8.png](readme photos/img_8.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_8.png?raw=true
 
 Администатору и менеджерам присылаются письма об успешной регистрации нового пользователя
 
