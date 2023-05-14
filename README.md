@@ -24,7 +24,7 @@
 ![img_4.png](readme photos/img_4.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_4.png?raw=true
 
 При регистрации пользователю на указанную электронную почту отправляется 4-знаяный код подтверждения, который нужно ввести на следующей странице, открывающейся автоматически
-![img_5.png](readme photos/img_5.png)
+![img_5.png](readme photos/img_5.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_5.png?raw=true
 
 Если введен неверный код, пользователю предлагается либо попробовать еще раз зарегистрироваться, либо отменить регистрацию
 ![img_6.png](readme photos/img_6.png)
