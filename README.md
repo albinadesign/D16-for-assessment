@@ -27,7 +27,7 @@
 ![img_5.png](readme photos/img_5.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_5.png?raw=true
 
 Если введен неверный код, пользователю предлагается либо попробовать еще раз зарегистрироваться, либо отменить регистрацию
-![img_6.png](readme photos/img_6.png)
+![img_6.png](readme photos/img_6.png) https://github.com/albinadesign/D16-for-assessment/blob/main/readme%20photos/img_6.png?raw=true
 
 Если пользователь уже пытался зарегистрироваться, но не прошел ее успешно, ему предложат сбросить результаты и снова зарегистрироваться
 ![img_7.png](readme photos/img_7.png)
