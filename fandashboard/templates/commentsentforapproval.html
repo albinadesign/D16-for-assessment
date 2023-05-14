@@ -1,0 +1,33 @@
+{% extends 'flatpages/default.html' %}
+
+{% block title %}
+    Posts
+{% endblock title %}
+
+{% block content %}
+
+<div style="display: flex">
+    <div style="flex-basis: 90%">
+        {% if user.is_authenticated %}
+        Hello, {{ request.user.username }}!
+        <p><a href="{% url 'logout' %}" style="text-decoration: none; color: #778899;">Log out</a></p>
+        {% else %}
+        <p><a href="{% url 'login' %}" style="text-decoration: none; color: #778899;">Log in</a></p>
+
+        {% endif %}
+        <br>
+{% for comment in comments reversed %}
+        {% if not comment.accepted %}
+             {% if comment.comment_author == request.user %}
+<h6 style="text-align: center" >Your comment "{{ comment.comment_text }}" is sent for approval to {{ comment.comment_post.author}}.<br>
+            We will notify you once it is approved and published</h6>
+        <br>
+        {% endif %}
+        {% endif %}
+{% endfor %}
+
+
+<br>
+    <a class="btn btn-secondary" href='{% url "posts" %}' role="button">Back</a>
+
+{% endblock content %}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+{% extends 'flatpages/default.html' %}
+
+<html>
+{% block title %}
+    Delete post
+{% endblock title %}
+
+{% block content %}
+    <h2 style="text-align: center">Delete post</h2>
+<br>
+    <hr>
+{% if post.author == request.user %}
+    <form action="" method="post">
+        {% csrf_token %}
+        <p>Delete {{ object.title }}?</p>
+        <input type="submit" value="Delete" />
+    </form>
+{% else %}
+<h6 style="text-align: center">You can delete only yours posts</h6>
+{% endif %}
+<br>
+    <input type=button value="Back" class="btn btn-secondary" onClick="javascript:history.go(-1);">
+{% endblock content %}
+</html>

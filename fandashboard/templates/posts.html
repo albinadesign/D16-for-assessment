@@ -1,0 +1,62 @@
+{% extends 'flatpages/default.html' %}
+
+
+{% block title %}
+    Posts
+{% endblock title %}
+
+{% block content %}
+
+<div style="display: flex">
+    <div style="flex-basis: 90%">
+        {% if user.is_authenticated %}
+        Hello, {{ request.user.username }}!
+        <p><a href="{% url 'logout' %}" style="text-decoration: none; color: #778899;">Log out</a></p>
+        {% else %}
+        <p><a href="{% url 'login' %}" style="text-decoration: none; color: #778899;">Log in</a> to publish posts and comments</p>
+
+        {% endif %}
+        <br>
+
+        <h2>Posts</h2>
+        <p>(total: {{ all_posts|length }})</p>
+                <hr>
+                {% if posts %}
+                    <table style="margin-right: auto; margin-right: auto;">
+                    {% for post in posts %}
+                        <tr>
+                            <td style="vertical-align: top; padding-right: 5vh;">
+                                <h6>{{ post.id }}</h6>
+                            </td>
+                            <td>
+                                </h6>
+                                <p style="text-align: justify">Author: {{ post.author|truncatewords:25|safe }}</p>
+                                <h6 style="text-align: justify">
+                                    <a href='{% url 'post_detail' post.id %}' style="text-decoration: none; color: #778899;">{{ post.title }}</a>
+                                    <i>| category: {{ post.category }} |</i>
+                                    <i>{{ post.dateCreation|date:'M d Y' }}</i>
+                                </h6>
+                                <p style="text-align: justify">{{ post.text|truncatewords:60|safe }}</p>
+                                <hr>
+                            </td>
+
+                        </tr>
+                        <tr>
+                            <td>
+                                <br>
+                            </td>
+                        </tr>
+
+                    {% endfor %}
+                    </table>
+                {% else %}
+                    <h3>No posts. May appear soon!</h3>
+                {% endif %}
+
+
+{% if posts %}
+{% include 'inc/pagination.html' %}
+{% endif %}
+
+
+{% endblock content %}
